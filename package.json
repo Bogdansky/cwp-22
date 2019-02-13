@@ -1,9 +1,12 @@
 {
-  "name": "cwp-22",
+  "name": "polish-cwp-22",
   "author": "bogdansky",
   "description": "This package have a function what calculates the value of reverse polish notation",
   "version": "1.0.0",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdansky/cwp-22.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
